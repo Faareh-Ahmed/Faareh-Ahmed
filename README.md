@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Faareh Ahmed</h1>
-<h3 align="center">Software Engineer from SEECS NUST, Pakistan</h3>
+
+![Logo](https://media.licdn.com/dms/image/D4D16AQGMtHznkq7LNQ/profile-displaybackgroundimage-shrink_350_1400/0/1692394063730?e=1703116800&v=beta&t=STCugCzKk8Koe7JIFbr4ggObyMGs2Ncom7uNQfR_uvI)
+
+
+## 🚀 About Me
+I am Meta Certified Front-End Developer and a student of Software Engineering from NUST SEECS 
+
+🧠 I'm currently learning Full Stack Development MERN
+
+👯‍♀️ I'm looking to collaborate on Web development Projects
+
+
+
 
 - 📫 How to reach me **faarehahmed@gmail.com**
 
